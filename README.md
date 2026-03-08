@@ -16,6 +16,7 @@ Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about
 
 ### 📫 Let's Connect!
 🌐 LinkedIn: [Frederico B. Relvas](https://www.linkedin.com/in/frederico-b-relvas-8a5643303/)
+
 📧 Email: relvas@discente.ufg.br
 
 ### 💬 About Me
@@ -33,4 +34,4 @@ const frederico = {
 };
 ```
 
-#### Reach out if you're interested in innovative A.I. projects! Let's collaborate and build something amazing together! 🚀
+#### "A ideia é crescermos juntos!"
