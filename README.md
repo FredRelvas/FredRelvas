@@ -34,4 +34,4 @@ const frederico = {
 };
 ```
 
-#### "A ideia é crescermos juntos!"
+>"A ideia é crescermos juntos!"
