@@ -2,16 +2,11 @@
 
 Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about artificial intelligence and Python development! Here's a peek into my GitHub activity and interests:
 
-### 🧐 Insights & Contributions
+### 🧐 Insights
 
 - 🌟 **Summary**: Active A.I. student at UFG with a flair for Python projects and AI applications.
 - 🔧 **Skills**: Python, Pandas, Docker - crafting innovative solutions.
-
-
-### 📫 Let's Connect!
-🌐 LinkedIn: [Frederico B. Relvas](https://www.linkedin.com/in/frederico-b-relvas-8a5643303/)
-
-📧 Email: relvas@discente.ufg.br
+- 🔍 **Curious**: I love to explore all of the different AI areas so I can have different insights everyday whatever I'm working on.
 
 ### 💬 About Me
 ```json
@@ -28,7 +23,10 @@ const frederico = {
 };
 ```
 
+### 📫 Let's Connect!
+🌐 LinkedIn: [Frederico B. Relvas](https://www.linkedin.com/in/frederico-b-relvas-8a5643303/)
 
+📧 Email: relvas@discente.ufg.br
 
 ### 🌟 GitHub Stats
 
