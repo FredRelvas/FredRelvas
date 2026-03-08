@@ -9,7 +9,7 @@
 
 🧠 O meu foco principal atual é NLP aplicada a sistemas multi-agentes
 
-🌱 Atualmente estou a aprendendo mais sobre DevOps & MLOps
+🌱 Atualmente estou a aprender mais sobre DevOps & MLOps
 
 🛠️ Tech Stack & Main Tools
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/frederico-b-relvas-8a5643303/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-%25230077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank" alt="LinkedIn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-%25230077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 <a href="mailto:relvas@discente.ufg.br" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
