@@ -2,12 +2,6 @@
 
 Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about artificial intelligence and Python development! Here's a peek into my GitHub activity and interests:
 
-### 🌟 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FredRelvas)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredRelvas)
-[![trophy](https://github-profile-trophy.vercel.app/?username=FredRelvas)](https://github.com/FredRelvas)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FredRelvas)](https://git.io/streak-stats)
-
 ### 🧐 Insights & Contributions
 
 - 🌟 **Summary**: Active A.I. student at UFG with a flair for Python projects and AI applications.
@@ -33,5 +27,13 @@ const frederico = {
   currentFocus: "Studying DevOps/MLOps to scale my AI systems for production."
 };
 ```
+
+
+
+### 🌟 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredRelvas&theme=gruvbox" />
+</div>
 
 >"A ideia é crescermos juntos!"
