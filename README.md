@@ -1,4 +1,4 @@
-## 🚀 Frederico B. Relvas' GitHub Profile
+## 🚀 Welcome to Frederico Relvas' GitHub Profile!
 
 Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about artificial intelligence and Python development! Here's a peek into my GitHub activity and interests:
 
