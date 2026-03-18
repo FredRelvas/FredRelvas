@@ -31,7 +31,7 @@ Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about
 ### 🌟 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredRelvas&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredRelvas&theme=github_dark" />
 </div>
 
 >"A ideia é crescermos juntos!"
