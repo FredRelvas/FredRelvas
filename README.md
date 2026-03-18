@@ -10,17 +10,17 @@ Hey there! 👋 I'm Frederico B. Relvas, an A.I. student at UFG passionate about
 
 ### 💬 About Me
 ```json
-const frederico = {
-  code: ["Python", "HTML", "C++"],
-  askMeAbout: ["Artificial Intelligence", "Neural Networks", "Data Science"],
-  technologies: {
-    baseCore: {
-        python: ["Pandas", "NumPy"],
+{
+  "code": ["Python", "HTML", "C++"],
+  "askMeAbout": ["Artificial Intelligence", "Neural Networks", "Data Science"],
+  "technologies": {
+    "baseCore": {
+      "python": ["Pandas", "NumPy"]
     },
-    misc: ["Tensorflow", "MLFlow", "Docker"]
+    "misc": ["Tensorflow", "MLFlow", "Docker"]
   },
-  currentFocus: "Studying DevOps/MLOps to scale my AI systems for production."
-};
+  "currentFocus": "Studying DevOps/MLOps to scale my AI systems for production."
+}
 ```
 
 ### 📫 Let's Connect!
@@ -31,7 +31,7 @@ const frederico = {
 ### 🌟 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredRelvas&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredRelvas&theme=dracula" />
 </div>
 
 >"A ideia é crescermos juntos!"
